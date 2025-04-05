@@ -1,6 +1,7 @@
 name = "newsnow"
 pages_build_output_dir = "dist/output/public"
 compatibility_date = "2024-10-03"
+main = "src/main.tsx"   # 入口文件路径
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
